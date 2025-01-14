@@ -29,6 +29,6 @@ The project uses the fetch API to request data from a server. By default, it is 
 
 5. Save the File.
 
-![Screenshot 2025-01-14 192324](https://github.com/user-attachments/assets/85e4079c-af55-484c-976f-1709e0122491)
 
+![Screenshot 2025-01-14 192324](https://github.com/user-attachments/assets/05cb7f8a-7410-4560-afdb-1896bbbe9883)
 
